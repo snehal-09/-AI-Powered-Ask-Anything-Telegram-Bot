@@ -164,5 +164,6 @@ AI | ML | Data Science Enthusiast
 
 ---
 
+<img width="1647" height="458" alt="Screenshot (855)" src="https://github.com/user-attachments/assets/016fcc04-55e9-4f92-bf7c-c70b0031f1d8" />
 
 
