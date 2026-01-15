@@ -1,5 +1,25 @@
 # 🤖 AI-Powered “Ask-Anything” Telegram Bot
 
+<img width="1647" height="458" alt="Screenshot (855)" src="https://github.com/user-attachments/assets/71e13735-45fc-4949-a42c-c30a1e610bd5" />
+
+---
+
+<img width="1115" height="911" alt="Screenshot (856)" src="https://github.com/user-attachments/assets/36398e27-b10f-4e5b-8bd0-9884aa6ad9b9" />
+
+---
+
+<img width="1172" height="898" alt="Screenshot (857)" src="https://github.com/user-attachments/assets/49aa99e9-6657-494d-b7fc-c0f3b230b2d1" />
+
+---
+
+<img width="1238" height="892" alt="Screenshot (858)" src="https://github.com/user-attachments/assets/a702b5bc-9870-421b-9a79-a8a86515450f" />
+
+---
+
+<img width="1225" height="894" alt="Screenshot (859)" src="https://github.com/user-attachments/assets/9da0e5dc-8598-4937-bc24-4deac6981a03" />
+
+---
+
 ### Built with n8n + Google Gemini
 
 This project is an **AI-driven Telegram chatbot** that allows users to **ask any question in natural language** and receive **instant, intelligent replies** using **Google Gemini**.
@@ -163,7 +183,3 @@ The **AI Agent understands the question**, finds the relevant data, and responds
 AI | ML | Data Science Enthusiast
 
 ---
-
-<img width="1647" height="458" alt="Screenshot (855)" src="https://github.com/user-attachments/assets/016fcc04-55e9-4f92-bf7c-c70b0031f1d8" />
-
-
